@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains a complete Business Intelligence pipeline simulation, starting from Data Ingestion (ETL) and Data Modeling to advanced Data Visualization in Power BI. The project uses the Superstore dataset to simulate real-world data engineering and analytical scenarios.
 
-![Dashboard](Images\Product.png)
+![Dashboard](Images/Product.png)
 
 ## echnology Stack
 * **Database:** PostgreSQL (Dockerized)
